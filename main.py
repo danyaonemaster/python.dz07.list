@@ -8,5 +8,5 @@ tasks = [
     task_03.run
 ]
 
-for func in tasks:
-    func()
+for f in tasks:
+    f()
